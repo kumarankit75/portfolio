@@ -7,8 +7,8 @@ const Projects = () => {
       title: "Netflix Clone",
       desc: "Built a responsive streaming UI using React and Tailwind. Implemented API fetching, dynamic routing, and modern UI design.",
       tech: ["React", "Tailwind", "API"],
-      github: "#",
-      live: "#",
+      github: "https://github.com/kumarankit75/netflix",
+      live: "https://ntflixtube.netlify.app/",
       img: img1,
     },
     {
