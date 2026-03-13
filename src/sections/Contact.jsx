@@ -13,22 +13,22 @@ const Contact = () => {
 
         {/* Contact Info */}
         <div className="space-y-4 mb-10">
-          <p>📧 Email: yourmail@gmail.com</p>
-          <p>💼 LinkedIn: linkedin.com/in/ankit-kumar</p>
-          <p>💻 GitHub: github.com/yourusername</p>
+          <p>📧 Email: kumarankitgovindchak@gmail.com</p>
+          <p>💼 LinkedIn: https://www.linkedin.com/in/ankit-kumar-385517207/</p>
+          <p>💻 GitHub: https://github.com/kumarankit75</p>
         </div>
 
         {/* Buttons */}
         <div className="flex justify-center gap-4">
           <a
-            href="mailto:yourmail@gmail.com"
+            href="mailto:kumarankitgovindchak@gmail.com"
             className="bg-blue-500 px-6 py-2 rounded-lg"
           >
             Email Me
           </a>
 
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/ankit-kumar-385517207/"
             className="border px-6 py-2 rounded-lg"
           >
             LinkedIn
