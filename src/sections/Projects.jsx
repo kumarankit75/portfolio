@@ -1,4 +1,6 @@
 import img1 from "../assets/1.jpg";
+import img2 from "../assets/2.jpg";
+import img3 from "../assets/3.jpg";
 const Projects = () => {
   const projects = [
     {
@@ -15,7 +17,7 @@ const Projects = () => {
       tech: ["PHP", "MySQL", "Bootstrap"],
       github: "#",
       live: "#",
-      img: "/src/assets/2.jpg",
+      img: img2,
     },
     {
       title: "Community Discussion Platform",
@@ -23,7 +25,7 @@ const Projects = () => {
       tech: ["React", "Context API", "Tailwind"],
       github: "#",
       live: "#",
-      img: "/src/assets/3.jpg",
+      img: img3,
     },
     // {
     //   title: "Community Discussion Platform",
