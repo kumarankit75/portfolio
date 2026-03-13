@@ -1,3 +1,4 @@
+import img1 from "../assets/1.jpg";
 const Projects = () => {
   const projects = [
     {
@@ -6,7 +7,7 @@ const Projects = () => {
       tech: ["React", "Tailwind", "API"],
       github: "#",
       live: "#",
-      img: "/src/assets/1.jpg",
+      img: img1,
     },
     {
       title: "E-commerce Website (PHP)",
