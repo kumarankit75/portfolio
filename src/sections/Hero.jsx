@@ -31,9 +31,27 @@ const Hero = () => {
        </motion.p>
 
         <div className="flex justify-center gap-4">
-          <button className="bg-blue-500 px-6 py-2 rounded-lg">
+          {/* <button onClick={href="#hero"} className="bg-blue-500 px-6 py-2 rounded-lg">
             View Projects
-          </button>
+          </button> */}
+
+
+                  {/* <button
+        onClick={() => {
+          document.getElementById("project").scrollIntoView({ behavior: "smooth" });
+        }}
+        className="bg-blue-500 px-6 py-2 rounded-lg"
+      >
+        View Projects
+      </button> */}
+
+
+      <a href="#projects">
+  <button className="bg-blue-500 px-6 py-2 rounded-lg">
+    View Projects
+  </button>
+</a>
+
 
           <a
   href="/src/assets/resume.pdf"

@@ -35,7 +35,7 @@ const About = () => {
             <ul className="space-y-2">
               <li><strong>Name:</strong> Ankit Kumar</li>
               <li><strong>Role:</strong> Frontend Developer</li>
-              <li><strong>Experience:</strong> Fresher</li>
+              <li><strong>Experience:</strong> 2 Years</li>
               <li><strong>Location:</strong> India</li>
             </ul>
           </div>
