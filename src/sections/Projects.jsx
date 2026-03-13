@@ -24,14 +24,14 @@ const Projects = () => {
       live: "#",
       img: "/src/assets/3.jpg",
     },
-    {
-      title: "Community Discussion Platform",
-      desc: "Built a community platform with posts, interactions, and modern UI using React and state management.",
-      tech: ["React", "Context API", "Tailwind"],
-      github: "#",
-      live: "#",
-      img: "/src/assets/3.jpg",
-    },
+    // {
+    //   title: "Community Discussion Platform",
+    //   desc: "Built a community platform with posts, interactions, and modern UI using React and state management.",
+    //   tech: ["React", "Context API", "Tailwind"],
+    //   github: "#",
+    //   live: "#",
+    //   img: "/src/assets/3.jpg",
+    // },
   ]
 
   return (
