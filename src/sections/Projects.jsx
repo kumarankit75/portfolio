@@ -15,8 +15,8 @@ const Projects = () => {
       title: "E-commerce Website (PHP)",
       desc: "Developed full e-commerce functionality with login, cart, checkout, and admin panel using PHP and MySQL.",
       tech: ["PHP", "MySQL", "Bootstrap"],
-      github: "#",
-      live: "#",
+      github: "https://github.com/kumarankit75/Ecommerce_Myntra_Clone_v1",
+      live: "https://ankitallstore.netlify.app/",
       img: img2,
     },
     {
